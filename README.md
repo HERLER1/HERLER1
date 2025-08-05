@@ -1,5 +1,5 @@
 
-## Hi there 👋 I'm Herler Rojas<br><br>:computer: Desarrollador de Software Full Stack (sí, de los que hacen magia en frontend y backend)<br>:car: Amante de los autos,motocicletas, las carreras y todo lo que ruge con motor<br>:keyboard: Constructor de ideas en código, línea por línea<br>:video_game: Curioso de la tecnología, videojuegos y los simuladores<br><br><br><br>
+## "🛡️ Tecnología con propósito. 🪖 Cada línea de código es una misión, y cada misión la cumplo con enfoque 🎯. Mi misión: servir ⚔️, crear 🛠️ e impactar 🫡."<br><br>:computer: Desarrollador de Software Full Stack (sí, de los que hacen magia en frontend y backend)<br>:car: Amante de los autos,motocicletas, las carreras y todo lo que ruge con motor<br>:keyboard: Constructor de ideas en código, línea por línea<br>:video_game: Curioso de la tecnología, videojuegos y los simuladores<br><br><br><br>
 
 
 ## 🌐 Socials:
